@@ -11,13 +11,13 @@
     "image_url": "https://shop-int.mercedesamgf1.com/cdn/shop/files/KF0160_1_APPAREL_Photography_Front_Center_View_grey.jpg?v=1767979102&width=540"
   },
   {
-    "id: "f1-2",
+    "id: "f1-02",
     "name": "Y-3 Team Hoody Black",
     "stock": 7,
     "stock_text": "7 in stock",
     "category": "F1 Racing",
     "location_count": "1",
-    "location_text": "1 store"',
+    "location_text": "1 store",
     "badge_status": "Low in stock",
     "image_url": "https://shop-int.mercedesamgf1.com/cdn/shop/files/KR2392_1_GR.jpg?v=1773754106&width=1080"
   },
@@ -31,16 +31,5 @@
     "location_text": "2 stores",
     "badge_status": "Out of stock",
     "image_url": "https://shop-int.mercedesamgf1.com/cdn/shop/files/KR4908_1.jpg?v=1773237804&width=1080"
-  },
-  {
-    "id": "f1-04",
-    "name": "Kick Sauber F1 Mint Edition T-Shirt",
-    "stock": 22,
-    "stock_text": "22 in stock",
-    "category": "F1 Racing",
-    "location_count": 4,
-    "location_text": "4 stores",
-    "badge_status": "Active",
-    "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=500"
   }
 ]
